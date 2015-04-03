@@ -1,0 +1,5 @@
+item	id	pickup_x	pickup_y	deliver_x	deliver_y
+envelope 1  13745   55419   13883   55756
+envelope 2  8406    53246   13937   55854
+envelope 3  15738   57396   35996   79499
+envelope 4  12045   60418   19349   57118
